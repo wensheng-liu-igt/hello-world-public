@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Push and pull exercise.
 
 Make a 2nd change remotely here.
+
+Make another change remotely in GitHub.
